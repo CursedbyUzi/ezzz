@@ -1,0 +1,26 @@
+[decent]
+bindedkey=Q
+repeat=60
+e={i down}
+e=10 D
+e={o down}
+e=10 D
+e={i up}
+e=10 D
+e={o up}
+e=10 D
+e={i down}
+e=10 D
+e={o down}
+e=10 D
+e={i up}
+e=10 D
+e={o up}
+e=10 D
+e={i down}
+e=10 D
+e={o down}
+e=10 D
+e={i up}
+e=10 D
+e={o up}
